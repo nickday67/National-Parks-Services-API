@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: rgb(93, 197, 24);
+}
+
+#app-title {
+    color: burlywood;
+}
+
+.navbar {
+    background-color: forestgreen;
+}
+
+.app-container {
+    margin-top: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.bd-placeholder-img {
+    font-size: 1.2rem;
+    text-anchor: middle;
+}
+  
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3rem;
+    }
+}
+  
+.hidden {
+    display: none;
+}
